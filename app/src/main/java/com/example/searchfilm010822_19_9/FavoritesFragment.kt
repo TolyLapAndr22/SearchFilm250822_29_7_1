@@ -1,3 +1,4 @@
+//
 package com.example.searchfilm010822_19_9
 
 import FilmListRecyclerAdapter
@@ -42,7 +43,7 @@ class FavoritesFragment : Fragment() {
             addItemDecoration(decorator)
         }
         //Кладем нашу БД в RV
-       // filmsAdapter.add
+        // filmsAdapter.add
         //filmsAdapter.addItems(favoritesList)
     }
 }
